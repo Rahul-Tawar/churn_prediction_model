@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.virtualenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.h5
+*.parquet
+*.feather
+*.pkl
+*.joblib
+
+# Model files
+models/
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.sav
+
+# ML experiment logs
+logs/
+runs/
+wandb/
+mlruns/
+
+# Output folders
+output/
+results/
+figures/
+plots/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
