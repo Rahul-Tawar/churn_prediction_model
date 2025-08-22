@@ -1,3 +1,7 @@
+import sys 
+print(sys.executable) # Check which Python executable is being used
+
+# Libraries
 import streamlit as st
 import pandas as pd
 import tensorflow as tf
